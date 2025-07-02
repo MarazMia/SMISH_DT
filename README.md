@@ -23,3 +23,17 @@ This repository, **SMISH_DT**, houses a comprehensive collection of smishing-rel
 
 * **`URL_Data/`**: This directory stores all the **URLs extracted from the messages** across the various datasets.
     * **Note:** While multiple URLs per message are counted, the direct index of the messages corresponding to each URL was not preserved during extraction. However, this trace can still be achieved through brute-force techniques if needed.
+
+## 🗄️ Original Dataset Sources
+
+* **`Enron Email Spam (2006)`**: https://www.kaggle.com/datasets/wcukierski/enron-email-dataset
+* **`English SMS (2011)`**: https://mtaufiqnzz.wordpress.com/british-english-sms-corpora/
+* **`UCI ML Repo (2011)`**: https://archive.ics.uci.edu/dataset/228/sms+spam+collection
+* **`ExAIS SMS Spam (2015)`**: https://github.com/AbayomiAlli/SMS-Spam-Dataset
+* **`Mendeley Smishing (2022)`**: https://data.mendeley.com/datasets/f45bkkt8pr/1
+* **`Super Dataset (2024)`**: https://github.com/smspamresearch/spstudy
+* **`Kor-Smishing (2024)`**: https://github.com/Ez-Sy01/KOR_phishing_Detect-Dataset
+* **`NUS Corpus (2011)`**: https://www.kaggle.com/datasets/rtatman/the-national-university-of-singapore-sms-corpus/data
+* **`Spam Hunter (2022)`**: https://github.com/opmusic/SpamHunter_dataset
+* **`SMS Gateways (2023)`**: https://github.com/wspr-ncsu/sms-phishing
+* **`Smishtank (2024)`**: https://smishtank.com/dataset
