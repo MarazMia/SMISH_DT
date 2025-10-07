@@ -10,7 +10,7 @@ This repository, **SMISH_DT**, houses a comprehensive collection of smishing-rel
 
 * **`Code/`**: Includes Jupyter notebooks for dataset handling and analysis:
     * `dataset_analysis.ipynb`: A notebook for comprehensive analysis of the collected datasets.
-    * `website_analysis_example.ipynb`: An example notebook demonstrating how to perform website analysis (e.g., using the UCI dataset).
+    * `UCI live_url_analysis.ipynb`: An example notebook demonstrating how to perform website analysis (e.g., using the UCI dataset).
 
 * **`Refined_Datasets/`**: Our processed versions of the datasets in `.csv` format. Each refined dataset includes the original data columns, augmented with **7 additional valuable features**:
     * `Extracted URL`
