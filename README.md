@@ -39,4 +39,5 @@ This repository, **SMISH_DT**, houses a comprehensive collection of smishing-rel
 * **`SMS Gateways (2023)`**: https://github.com/wspr-ncsu/sms-phishing
 * **`Smishtank (2024)`**: https://smishtank.com/dataset
 * **`Bengali SMS Spam (2024)`**: https://www.kaggle.com/datasets/fahimvj/bengali-sms-spam-detection-dataset
-* **`BanglaBarta (2025)`**: https://data.mendeley.com/datasets/jfkfbw3gzh/2
+* **`Bangla Barta (2025)`**: https://data.mendeley.com/datasets/jfkfbw3gzh/2
+* **`MOZ-Smishing (2025)`**: https://huggingface.co/datasets/MOZNLP/MOZ-Smishing
