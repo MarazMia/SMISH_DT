@@ -34,10 +34,10 @@ This repository, **SMISH_DT**, houses a comprehensive collection of smishing-rel
 * **`Mendeley Smishing (2022)`**: https://data.mendeley.com/datasets/f45bkkt8pr/1
 * **`Super Dataset (2024)`**: https://github.com/smspamresearch/spstudy
 * **`Kor-Smishing (2024)`**: https://github.com/Ez-Sy01/KOR_phishing_Detect-Dataset
+* **`Bengali SMS Spam (2024)`**: https://www.kaggle.com/datasets/fahimvj/bengali-sms-spam-detection-dataset
+* **`Bangla Barta (2025)`**: https://data.mendeley.com/datasets/jfkfbw3gzh/2
+* **`MOZ-Smishing (2025)`**: https://huggingface.co/datasets/MOZNLP/MOZ-Smishing
 * **`NUS Corpus (2011)`**: https://www.kaggle.com/datasets/rtatman/the-national-university-of-singapore-sms-corpus/data
 * **`Spam Hunter (2022)`**: https://github.com/opmusic/SpamHunter_dataset
 * **`SMS Gateways (2023)`**: https://github.com/wspr-ncsu/sms-phishing
 * **`Smishtank (2024)`**: https://smishtank.com/dataset
-* **`Bengali SMS Spam (2024)`**: https://www.kaggle.com/datasets/fahimvj/bengali-sms-spam-detection-dataset
-* **`Bangla Barta (2025)`**: https://data.mendeley.com/datasets/jfkfbw3gzh/2
-* **`MOZ-Smishing (2025)`**: https://huggingface.co/datasets/MOZNLP/MOZ-Smishing
